@@ -159,7 +159,7 @@ API gateways serve as the primary telemetry generation point, recording every in
 
 *Sorted by GitHub_Stars (descending):*
 
-| 🌟 Project | 🏷️ Star Badge | 📝 Description | ⚡ Analytics Potential |
+| 🌟 Project | 🏷️ Stars_Badge | 📝 Description | ⚡ Analytics Potential |
 | :--- | :--- | :--- | :--- |
 | [Caddy](https://github.com/caddyserver/caddy) | [![Stars](https://img.shields.io/github/stars/caddyserver/caddy?style=social&color=white)](https://github.com/caddyserver/caddy/stargazers) | Fast, extensible multi-platform HTTP/2 and HTTP/3 web server and reverse proxy | Structured JSON access logs, Prometheus metrics exporter, OpenTelemetry support |
 | [Traefik](https://github.com/traefik/traefik) | [![Stars](https://img.shields.io/github/stars/traefik/traefik?style=social&color=white)](https://github.com/traefik/traefik/stargazers) | Cloud-native modern HTTP reverse proxy and ingress controller | Built-in Prometheus metrics, OpenTelemetry tracing, Jaeger, Datadog & access logs |
@@ -186,7 +186,7 @@ Metrics engines store time-series counters, gauges, and histograms, powering rea
 
 *Sorted by GitHub_Stars (descending):*
 
-| 🌟 Project | 🏷️ Star Badge | 📝 Primary Role | ⚡ Key Capabilities |
+| 🌟 Project | 🏷️ Stars_Badge | 📝 Primary Role | ⚡ Key Capabilities |
 | :--- | :--- | :--- | :--- |
 | [Uptime Kuma](https://github.com/louislam/uptime-kuma) | [![Stars](https://img.shields.io/github/stars/louislam/uptime-kuma?style=social&color=white)](https://github.com/louislam/uptime-kuma/stargazers) | Self-hosted monitoring tool | HTTP(s) API health checks, response time graphing, status badges, notification webhooks |
 | [Netdata](https://github.com/netdata/netdata) | [![Stars](https://img.shields.io/github/stars/netdata/netdata?style=social&color=white)](https://github.com/netdata/netdata/stargazers) | Real-time performance monitoring | Per-second API infrastructure metrics, automated anomaly detection, low footprint |
@@ -210,7 +210,7 @@ Access logs capture complete per-request metadata—headers, status codes, consu
 
 *Sorted by GitHub_Stars (descending):*
 
-| 🌟 Project | 🏷️ Star Badge | 📝 Role | ⚡ Key Capabilities |
+| 🌟 Project | 🏷️ Stars_Badge | 📝 Role | ⚡ Key Capabilities |
 | :--- | :--- | :--- | :--- |
 | [Elasticsearch](https://github.com/elastic/elasticsearch) | [![Stars](https://img.shields.io/github/stars/elastic/elasticsearch?style=social&color=white)](https://github.com/elastic/elasticsearch/stargazers) | Distributed, RESTful search & analytics engine | Full-text query across trillions of API log events, inverted index, aggregation |
 | [Apache Kafka](https://github.com/apache/kafka) | [![Stars](https://img.shields.io/github/stars/apache/kafka?style=social&color=white)](https://github.com/apache/kafka/stargazers) | Distributed event streaming platform | High-throughput buffer for API request/response streams and usage metering events |
@@ -233,7 +233,7 @@ Distributed tracing provides request-level execution visibility across microserv
 
 *Sorted by GitHub_Stars (descending):*
 
-| 🌟 Project | 🏷️ Star Badge | 📝 Description | ⚡ Tracing & Profiling Capabilities |
+| 🌟 Project | 🏷️ Stars_Badge | 📝 Description | ⚡ Tracing & Profiling Capabilities |
 | :--- | :--- | :--- | :--- |
 | [SigNoz](https://github.com/SigNoz/signoz) | [![Stars](https://img.shields.io/github/stars/SigNoz/signoz?style=social&color=white)](https://github.com/SigNoz/signoz/stargazers) | All-in-one OpenTelemetry APM & observability | Flame graphs, Gantt charts, root cause analysis, p99 latency by endpoint, ClickHouse backend |
 | [Apache SkyWalking](https://github.com/apache/skywalking) | [![Stars](https://img.shields.io/github/stars/apache/skywalking?style=social&color=white)](https://github.com/apache/skywalking/stargazers) | APM, distributed tracing & service mesh observability | Automatic agent instrumentation, topology map analysis, service performance diagnostics |
@@ -254,7 +254,7 @@ Large-scale API estates generate billions of analytical events monthly. These co
 
 *Sorted by GitHub_Stars (descending):*
 
-| 🌟 Database | 🏷️ Star Badge | 📝 Core Strength | ⚡ Analytical Fit for APIs |
+| 🌟 Database | 🏷️ Stars_Badge | 📝 Core Strength | ⚡ Analytical Fit for APIs |
 | :--- | :--- | :--- | :--- |
 | [ClickHouse](https://github.com/ClickHouse/ClickHouse) | [![Stars](https://img.shields.io/github/stars/ClickHouse/ClickHouse?style=social&color=white)](https://github.com/ClickHouse/ClickHouse/stargazers) | Ultra-fast column-oriented DBMS | Sub-second SQL aggregation across billions of API request events; industry gold-standard |
 | [DuckDB](https://github.com/duckdb/duckdb) | [![Stars](https://img.shields.io/github/stars/duckdb/duckdb?style=social&color=white)](https://github.com/duckdb/duckdb/stargazers) | In-process analytical SQL database | Embedded API log query analysis, local Parquet/JSON log file inspection, fast analytics |
@@ -278,7 +278,7 @@ API analytics powers automatic API discovery, inventory auditing, schema validat
 
 *Sorted by GitHub_Stars (descending):*
 
-| 🌟 Project | 🏷️ Star Badge | 📝 Primary Role | ⚡ Capabilities |
+| 🌟 Project | 🏷️ Stars_Badge | 📝 Primary Role | ⚡ Capabilities |
 | :--- | :--- | :--- | :--- |
 | [Backstage](https://github.com/backstage/backstage) | [![Stars](https://img.shields.io/github/stars/backstage/backstage?style=social&color=white)](https://github.com/backstage/backstage/stargazers) | Developer portal platform (Spotify) | Centralized API catalog, ownership mapping, service topology, documentation hub |
 | [OpenAPI Specification](https://github.com/OAI/OpenAPI-Specification) | [![Stars](https://img.shields.io/github/stars/OAI/OpenAPI-Specification?style=social&color=white)](https://github.com/OAI/OpenAPI-Specification/stargazers) | Standard interface description for REST APIs | Standardized contract representation, baseline for contract testing & drift detection |
@@ -295,7 +295,7 @@ Telemetry data serves as the foundation for identifying malicious actors, volume
 
 *Sorted by GitHub_Stars (descending):*
 
-| 🌟 Project | 🏷️ Star Badge | 📝 Security Role | ⚡ Threat Analysis Capabilities |
+| 🌟 Project | 🏷️ Stars_Badge | 📝 Security Role | ⚡ Threat Analysis Capabilities |
 | :--- | :--- | :--- | :--- |
 | [Trivy](https://github.com/aquasecurity/trivy) | [![Stars](https://img.shields.io/github/stars/aquasecurity/trivy?style=social&color=white)](https://github.com/aquasecurity/trivy/stargazers) | Comprehensive security scanner | Scans API containers, Kubernetes gateways, and dependencies for CVEs |
 | [OWASP ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) | [![Stars](https://img.shields.io/github/stars/owasp-modsecurity/ModSecurity?style=social&color=white)](https://github.com/owasp-modsecurity/ModSecurity/stargazers) | Web Application Firewall engine | Layer 7 request inspection, HTTP protocol enforcement, regex threat filtering |
@@ -315,7 +315,7 @@ API monetization transforms request telemetry into accurate billing invoices, en
 
 *Sorted by GitHub_Stars (descending):*
 
-| 🌟 Project | 🏷️ Star Badge | 📝 Monetization Role | ⚡ Billing Capabilities |
+| 🌟 Project | 🏷️ Stars_Badge | 📝 Monetization Role | ⚡ Billing Capabilities |
 | :--- | :--- | :--- | :--- |
 | [ClickHouse](https://github.com/ClickHouse/ClickHouse) | [![Stars](https://img.shields.io/github/stars/ClickHouse/ClickHouse?style=social&color=white)](https://github.com/ClickHouse/ClickHouse/stargazers) | High-speed billing analytics backend | Aggregates billions of meter events per second with instant invoice reconciliation |
 | [Apache Kafka](https://github.com/apache/kafka) | [![Stars](https://img.shields.io/github/stars/apache/kafka?style=social&color=white)](https://github.com/apache/kafka/stargazers) | Durable usage event bus | Guarantees exactly-once event delivery for billing pipelines, decoupled from gateways |
