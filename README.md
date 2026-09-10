@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-API-Analytics/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-API-Analytics?style=social&color=white" alt="GitHub stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-API-Analytics/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-API-Analytics?style=social&color=white" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-API-Analytics/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-API-Analytics?style=social&color=white" alt="GitHub forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-API-Analytics/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -157,7 +157,7 @@ The open-source ecosystem provides modular, high-scale building blocks to create
 
 API gateways serve as the primary telemetry generation point, recording every inbound request, outbound response, latency metric, and client identity.
 
-*Sorted by GitHub Stars (descending):*
+*Sorted by GitHub_Stars (descending):*
 
 | 🌟 Project | 🏷️ Star Badge | 📝 Description | ⚡ Analytics Potential |
 | :--- | :--- | :--- | :--- |
@@ -184,7 +184,7 @@ API gateways serve as the primary telemetry generation point, recording every in
 
 Metrics engines store time-series counters, gauges, and histograms, powering real-time dashboards for RPS, error percentages, and latency percentiles.
 
-*Sorted by GitHub Stars (descending):*
+*Sorted by GitHub_Stars (descending):*
 
 | 🌟 Project | 🏷️ Star Badge | 📝 Primary Role | ⚡ Key Capabilities |
 | :--- | :--- | :--- | :--- |
@@ -208,7 +208,7 @@ Metrics engines store time-series counters, gauges, and histograms, powering rea
 
 Access logs capture complete per-request metadata—headers, status codes, consumer IDs, endpoints, latency, and payloads.
 
-*Sorted by GitHub Stars (descending):*
+*Sorted by GitHub_Stars (descending):*
 
 | 🌟 Project | 🏷️ Star Badge | 📝 Role | ⚡ Key Capabilities |
 | :--- | :--- | :--- | :--- |
@@ -231,7 +231,7 @@ Access logs capture complete per-request metadata—headers, status codes, consu
 
 Distributed tracing provides request-level execution visibility across microservices, downstream database queries, and third-party APIs.
 
-*Sorted by GitHub Stars (descending):*
+*Sorted by GitHub_Stars (descending):*
 
 | 🌟 Project | 🏷️ Star Badge | 📝 Description | ⚡ Tracing & Profiling Capabilities |
 | :--- | :--- | :--- | :--- |
@@ -252,7 +252,7 @@ Distributed tracing provides request-level execution visibility across microserv
 
 Large-scale API estates generate billions of analytical events monthly. These columnar and time-series databases power high-concurrency queries over endpoints, users, status codes, and latency distributions.
 
-*Sorted by GitHub Stars (descending):*
+*Sorted by GitHub_Stars (descending):*
 
 | 🌟 Database | 🏷️ Star Badge | 📝 Core Strength | ⚡ Analytical Fit for APIs |
 | :--- | :--- | :--- | :--- |
@@ -276,7 +276,7 @@ Large-scale API estates generate billions of analytical events monthly. These co
 
 API analytics powers automatic API discovery, inventory auditing, schema validation, and zombie endpoint elimination.
 
-*Sorted by GitHub Stars (descending):*
+*Sorted by GitHub_Stars (descending):*
 
 | 🌟 Project | 🏷️ Star Badge | 📝 Primary Role | ⚡ Capabilities |
 | :--- | :--- | :--- | :--- |
@@ -293,7 +293,7 @@ API analytics powers automatic API discovery, inventory auditing, schema validat
 
 Telemetry data serves as the foundation for identifying malicious actors, volumetric attacks, broken object level authorization (BOLA), and credential leaks.
 
-*Sorted by GitHub Stars (descending):*
+*Sorted by GitHub_Stars (descending):*
 
 | 🌟 Project | 🏷️ Star Badge | 📝 Security Role | ⚡ Threat Analysis Capabilities |
 | :--- | :--- | :--- | :--- |
@@ -313,7 +313,7 @@ Telemetry data serves as the foundation for identifying malicious actors, volume
 
 API monetization transforms request telemetry into accurate billing invoices, enforcing tier quotas, subscription tiers, and prepaid credits.
 
-*Sorted by GitHub Stars (descending):*
+*Sorted by GitHub_Stars (descending):*
 
 | 🌟 Project | 🏷️ Star Badge | 📝 Monetization Role | ⚡ Billing Capabilities |
 | :--- | :--- | :--- | :--- |
